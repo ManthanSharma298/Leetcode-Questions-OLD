@@ -23,7 +23,7 @@ public:
 };
 
 // Time complx: O(N)
-// Space complx: O(1)
+// Space complx: O(N)
 
 
 class Solution {
